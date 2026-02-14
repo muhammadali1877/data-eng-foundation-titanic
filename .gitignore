@@ -1,0 +1,18 @@
+# Data files (don't upload Kaggle datasets)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
